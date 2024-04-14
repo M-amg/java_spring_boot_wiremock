@@ -1,0 +1,19 @@
+{
+  "id": "d63a2a33-4436-3101-95c5-f9daa16adf01",
+  "request": {
+    "urlPathPattern": "/api/v1/customers/1",
+    "method": "GET"
+
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "01.json",
+    "transformers": [
+      "response-template"
+    ],
+    "headers": {
+      "Content-Type": "application/json; charset=utf-8"
+    }
+  },
+  "uuid": "d63a2a33-4436-3101-95c5-f9daa16adf01"
+}
